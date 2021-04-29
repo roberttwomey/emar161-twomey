@@ -1,6 +1,8 @@
 // from Gretchen Larsen
 // ok I'm making some changes.
 
+// hey look me, making some changes
+
 let img0, img1, img2, img3, img4, img5;
 
 let state = 0;
